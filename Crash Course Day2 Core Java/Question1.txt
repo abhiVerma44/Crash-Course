@@ -1,0 +1,19 @@
+1.Create a .txt file using notepad.
+2.Write a simple java program in that .txt file and save it.
+ex:-
+class HelloWorld {
+
+	public static void main(String[] args) {
+
+		System.out.println("Welcome");
+	}
+}
+3.After saving it rename it int0 .txt to .java 
+4 Now open the commond prompt and excute this following command
+
+C:\Users\Abhishek kumar\Desktop\Crash course\Crash Course Day2 Core Java>javac HelloWorld.java
+
+C:\Users\Abhishek kumar\Desktop\Crash course\Crash Course Day2 Core Java>java HelloWorld
+Welcome
+
+C:\Users\Abhishek kumar\Desktop\Crash course\Crash Course Day2 Core Java>
